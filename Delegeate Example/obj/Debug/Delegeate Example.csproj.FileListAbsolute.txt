@@ -1,0 +1,12 @@
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\bin\Debug\Delegeate Example.exe.config
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\bin\Debug\Delegeate Example.exe
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\bin\Debug\Delegeate Example.pdb
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\obj\Debug\Delegeate Example.csprojAssemblyReference.cache
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\obj\Debug\Delegeate_Example.Form1.resources
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\obj\Debug\Delegeate_Example.Properties.Resources.resources
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\obj\Debug\Delegeate Example.csproj.GenerateResource.cache
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\obj\Debug\Delegeate Example.csproj.CoreCompileInputs.cache
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\obj\Debug\Delegeate Example.exe
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\obj\Debug\Delegeate Example.pdb
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\obj\Debug\Delegeate_Example.FirstWindow.resources
+c:\users\shahinur\source\repos\Delegeate Example\Delegeate Example\obj\Debug\Delegeate_Example.SecondWindow.resources
